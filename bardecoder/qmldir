@@ -1,0 +1,6 @@
+module bardecoder
+linktarget bardecoderplugin
+optional plugin qml_bardecoder_bardecoderplugin
+classname bardecoderPlugin
+typeinfo bardecoder.qmltypes
+prefer :/bardecoder/
